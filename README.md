@@ -1,7 +1,9 @@
 
 # Soroban DAO
 
-A **Decentralized Autonomous Organization (DAO)** is an entity that operates on a blockchain, leveraging smart contracts and token-based governance. In a DAO, participants can make decisions and contribute to its activities without relying on a central authority. Here are some key points about DAOs:
+A **Decentralized Autonomous Organization (DAO)** is an entity that operates on a blockchain, leveraging smart contracts and token-based governance.
+
+In a DAO, participants can make decisions and contribute to its activities **without relying on a central authority**. Here are some key points about DAOs:
 
 - **Decentralization**: DAOs are designed to be decentralized, meaning they operate without a single controlling entity. Participants collectively govern the organization through voting mechanisms.
 - **Smart Contracts**: DAOs use smart contracts to automate processes, enforce rules, and manage funds. These contracts execute autonomously based on predefined conditions.
