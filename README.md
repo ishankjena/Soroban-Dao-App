@@ -11,5 +11,4 @@ A **Decentralized Autonomous Organization (DAO)** is an entity that operates on 
 
 In summary, a DAO app facilitates participation, decision-making, and governance within a decentralized community, revolutionizing traditional organizational structures.
 
-[logo]: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftabtrader.com%2Facademy%2Farticles%2Fwhat-is-dao&psig=AOvVaw3ZlvC0n_adzfRwDvxSIOWS&ust=1716124611867000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD7isGkl4YDFQAAAAAdAAAAABAE
- "Logo Title Text 2"
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftabtrader.com%2Facademy%2Farticles%2Fwhat-is-dao&psig=AOvVaw3ZlvC0n_adzfRwDvxSIOWS&ust=1716124611867000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD7isGkl4YDFQAAAAAdAAAAABAE "Logo Title Text 1")
