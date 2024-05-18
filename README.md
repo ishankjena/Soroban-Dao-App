@@ -9,7 +9,7 @@ In a DAO, participants can make decisions and contribute to its activities **wit
 - **Smart Contracts**: DAOs use smart contracts to automate processes, enforce rules, and manage funds. These contracts execute autonomously based on predefined conditions.
 - **Token-Based Governance**: DAO members hold tokens representing their stake in the organization. These tokens grant voting rights, allowing members to influence decisions.
 - **Transparency**: DAOs provide transparency by recording all transactions and decisions on the blockchain. Anyone can verify the organization's activities.
-- **Use Cases**: DAOs can be applied to various domains, including finance (DeFi), art, social events, music, gaming, and more¹.
+- **Use Cases**: DAOs can be applied to various domains, including finance (DeFi), art, social events, music, gaming, and more.
 
 In summary, a DAO app facilitates participation, decision-making, and governance within a decentralized community, revolutionizing traditional organizational structures.
 
